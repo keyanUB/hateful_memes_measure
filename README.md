@@ -2,7 +2,7 @@
  
 ## Image Result from Different APIs:
 
-### The Total Pass Rate (False Negtive)
+### The Total Pass Rate (False Negative)
 - Pass rate = (predict safe) / (real unsafe) = 1129 / 1341 = 84.19\%
 
 ### The Total False Rate (False Positive)
