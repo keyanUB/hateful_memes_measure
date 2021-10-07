@@ -1,8 +1,8 @@
 # hateful_memes_measure
  
-# Image Result from Different APIs:
+## Image Result from Different APIs:
 
-## Safe Lables Classification Report
+### Safe Lables Classification Report
 | APIs | precision | recall | f1-score | 
 | --- | --- | --- | --- |
 | **Google Cloud Vision** |0.7332 | 0.9719 | 0.8358 |
@@ -11,7 +11,7 @@
 | **DeepAI NSFW** | 0.7323 | 0.9913 | 0.8423 |
 
 
-## Not-Safe Lables Classification Report
+### Not-Safe Lables Classification Report
 | APIs| precision | recall | f1-score | 
 | --- | --- | --- | --- | 
 | **Google Cloud Vision**| 0.3133| 0.0350 | 0.0630 |
@@ -21,5 +21,5 @@
 | **DeepAI NSFW (0.4)** | 0.3191| 0.0112 | 0.0216 |
 | **DeepAI NSFW (0.5)** | 0.2857| 0.0075 | 0.0145 |
 
-## Evaluation Ouput
+### Evaluation Ouput
 <img src="https://github.com/keyanUB/hateful_memes_measure/blob/main/img_result.png?raw=true" width="400">
