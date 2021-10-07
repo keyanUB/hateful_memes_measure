@@ -22,4 +22,4 @@
 | **DeepAI NSFW (0.5)** | 0.2857| 0.0075 | 0.0145 |
 
 ### Evaluation Ouput
-<img src="https://github.com/keyanUB/hateful_memes_measure/blob/main/img_result.png?raw=true" width="400">
+<img src="https://github.com/keyanUB/hateful_memes_measure/blob/main/img_result.png?raw=true" width="450">
