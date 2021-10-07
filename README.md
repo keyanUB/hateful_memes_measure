@@ -23,3 +23,4 @@
 
 
 ![alt text](https://github.com/keyanUB/hateful_memes_measure/blob/main/img_result.png?raw=true)
+<img src="https://github.com/keyanUB/hateful_memes_measure/blob/main/img_result.png?raw=true" width="48">
