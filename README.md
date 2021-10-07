@@ -1,6 +1,7 @@
 # hateful_memes_measure
  
-# Result:
+# Result from different APIs:
+
 ## Safe lable prediction
 | APIs | precision | recall | f1-score | 
 | --- | --- | --- | --- |
