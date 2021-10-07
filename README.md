@@ -2,6 +2,12 @@
  
 ## Image Result from Different APIs:
 
+### The Total Pass Rate (False Negtive)
+Pass rate = (predict safe) / (real unsafe) = 1129 / 1341 = 84.19\%
+
+### The Total False Rate (False Positive)
+False rate = (predict unsafe) / (real safe) = 587 / 3659 = 16.04\%
+
 ### Safe Lables Classification Report
 | APIs | precision | recall | f1-score | 
 | --- | --- | --- | --- |
