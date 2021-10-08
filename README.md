@@ -23,7 +23,7 @@
 
 #### Google Cloud Vision API:
 - safety factors: safe.adult, safe.medical, safe.spoofing (ignored), safe.violence, safe.racy.
-- likelihood levels: <1> UNKNOWN, <2> VERY_UNLIKELY, <3> UNLIKELY, <4> POSSIBLE, <5> LIKELY, <6> VERY_LIKELY.
+- likelihood levels: 1 -UNKNOWN, 2 -VERY_UNLIKELY, 3 -UNLIKELY, 4 -POSSIBLE, 5 -LIKELY, 6 -VERY_LIKELY.
 
 ### Evaluation Ouput
 <img src="https://github.com/keyanUB/hateful_memes_measure/blob/main/img_result.png?raw=true" width="450">
