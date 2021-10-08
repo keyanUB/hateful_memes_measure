@@ -11,7 +11,7 @@
 | **DeepAI NSFW** | NSFW score < 0.5 (0\~1) | 0.7323 | 0.9913 | 0.8423 |
 
 
-### Not-Safe Lables Classification Report
+#### Not-Safe Lables Classification Report
 | APIs| not-safe criteria | precision | recall | f1-score | 
 | --- | --- | --- | --- | --- |
 | **Google Cloud Vision**| possibility of any safety factor >= 4 ('LIKELY') | 0.3133| 0.0350 | 0.0630 |
