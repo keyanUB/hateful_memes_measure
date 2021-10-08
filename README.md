@@ -4,7 +4,7 @@
 
 ### Safe Lables Classification Report
 | APIs | safty criteria | precision | recall | f1-score | 
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | **Google Cloud Vision** | possibility of all saft factors not big than 3('possible') |0.7332 | 0.9719 | 0.8358 |
 | **Amazon Rekognition** | score of 'hateful' < 0.5(0\~1) | 0.7331 | 0.9932 | 0.8435 |
 | **Clarifai NSFW**  | NSFW score < 0.5(0\~1) | 0.7328 | 0.9954 | 0.8441 |
