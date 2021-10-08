@@ -22,7 +22,7 @@
 | **DeepAI NSFW (0.5)** | NSFW score >= 0.5 (0\~1) | 0.2857| 0.0075 | 0.0145 |
 
 #### Google Cloud Vision API:
-- safety factors: safe.adult, safe.medical, safe.violence, safe.racy.
+- safety factors: safe.adult, safe.medical, safe.spoofing, safe.violence, safe.racy.
 - likelihood levels: <1> UNKNOWN, <2> VERY_UNLIKELY, <3> UNLIKELY, <4> POSSIBLE, <5> LIKELY, <6> VERY_LIKELY.
 
 ### Evaluation Ouput
